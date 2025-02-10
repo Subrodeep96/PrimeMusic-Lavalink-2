@@ -8,7 +8,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "YouTube Music", "Spotify"
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/xQF9f9yUEM",
   embedTimeout: 5, 
@@ -22,10 +22,10 @@ module.exports = {
       secure: false
     },
     {
-      name: "ChalresNaig Node",
-      password: "NAIGLAVA-dash.techbyte.host",
-      host: "lavahatry4.techbyte.host",
-      port: 3000,
+      name: "INZEWORLD.COM (DE)",
+      password: "saher.inzeworld.com",
+      host: "lava.inzeworld.com",
+      port: 3128,
       secure: false
     }
   ]
